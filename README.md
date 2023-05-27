@@ -1,7 +1,7 @@
-# Desafios_DS
-Este repositorio contiene problemas (Desafíos) de data science que he resuelto usando Python para las diferentas clases online que dicto.
+# Desafios_Data_science
+Este repositorio contiene problemas (Desafíos) de data science que he resuelto usando Python para las diferentas clases online que dicto como profesor de las asignaturas de  introducción a la programación, Fundamentos Data Science y Machine Learning con Python.
 
-> Los desafios comienza desde lo más basico como por ejemplo aprender a utilizar los cuadernos de jupyter notebook hasta realizar modelos avanzados de machine learning para resolver problemas de clasificación y regresión.
+> Los desafios comienza con ejercicios de python desde lo más basico como por ejemplo aprender a utilizar los cuadernos de jupyter notebook hasta realizar modelos avanzados de machine learning para resolver problemas de clasificación y regresión.
 
 ## Desafio 1: Introducción al ambiente de trabajo
 **Habilidades a evaluar**
