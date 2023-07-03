@@ -4,9 +4,9 @@ Este repositorio contiene problemas (Desafíos) de data science que he resuelto 
 > Nota: Los desafios comienza desde lo más basico como por ejemplo aprender a utilizar los cuadernos de jupyter notebook hasta realizar modelos avanzados de machine learning para resolver problemas de clasificación y regresión.
 
 ## Contenidos 
-- [Desafio 1](https://github.com/RubenGithub1108/Desafios_DS#desafio-1-introducci%C3%B3n-al-ambiente-de-trabajo)
-- [Desafio 2]
-- [desafio 3]
+- [x] [Desafio 1](https://github.com/RubenGithub1108/Desafios_DS#desafio-1-introducci%C3%B3n-al-ambiente-de-trabajo)
+- [ ] [Desafio 2]
+- [ ] [desafio 3]
 
 ## Desafio 1: Introducción al ambiente de trabajo
 **Habilidades a evaluar**
